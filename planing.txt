@@ -1,0 +1,58 @@
+aplicacion ->
+plataformas -> ordenador(mac,windows,linux), moviles(ios,android) 
+frontend -> codename, RESTful API o GraphQL
+back-end -> ORM (hibernate), BDOR ()
+hosting -> aws o azure
+diseño -> figma
+
+promtp -> teniendo en cuenta que hoy es noviembre de 2023, tengo que hacer un proyecto final del grado superior de dam para junio de 2024, durante este tiempo no solo voy a estar con este proyecto, voy a esar con clases, con otros proyectos y tabajando y mi proyecto va a estar formado por esto: plataformas: ordenador y moviles, frontend: codename y restful api, backend: orm hibertante y dbor, hosting: aws o azure, diseño: figma, sobre que tema deberia hacer mi proyecto el cual quiero que sea innovador, distinto y para aspirar al 10
+
+idea 1:
+Título del Proyecto: "ConectArt: Plataforma de Descubrimiento de Arte Interactivo"
+
+Descripción del Proyecto:
+
+"ConectArt" será una plataforma de arte interactiva que combinará la apreciación del arte con la tecnología moderna. La plataforma permitirá a los usuarios explorar, interactuar y aprender sobre obras de arte famosas y menos conocidas de una manera innovadora y atractiva. La aplicación estará disponible tanto en computadoras de escritorio como en dispositivos móviles (Android e iOS).
+
+Características Clave:
+
+Galería de Obras de Arte:
+
+Los usuarios podrán explorar una extensa galería de obras de arte de diversos artistas, períodos y estilos.
+Recorridos Virtuales:
+
+La plataforma ofrecerá recorridos virtuales en 3D de museos famosos, donde los usuarios podrán caminar y explorar exposiciones de arte.
+Interacción Interactiva:
+
+Los usuarios podrán interactuar con las obras de arte, ampliar detalles, ver información detallada y escuchar narraciones relacionadas con cada obra.
+Información Educativa:
+
+Proporcionará información educativa sobre los artistas, la historia del arte y los contextos culturales de las obras.
+Comunidad de Arte:
+
+Los usuarios podrán compartir sus experiencias, crear galerías personales y conectarse con otros amantes del arte.
+Diseño Atractivo:
+
+Utiliza Figma para diseñar una interfaz de usuario atractiva y elegante que atraiga tanto a amantes del arte como a nuevos entusiastas.
+Backend con Hibernate y Base de Datos Relacional:
+
+Implementa un backend utilizando Hibernate ORM y una base de datos relacional para almacenar información sobre obras de arte, artistas y usuarios.
+Despliegue en AWS o Azure:
+
+Aloja la plataforma en la nube utilizando servicios de Amazon Web Services (AWS) o Microsoft Azure para garantizar la escalabilidad y disponibilidad.
+Innovación:
+
+La innovación en este proyecto radica en la combinación de arte y tecnología para proporcionar una experiencia de usuario enriquecedora y única. Los recorridos virtuales y la interacción con obras de arte permiten a los usuarios experimentar el arte de una manera nunca antes vista.
+
+Desafíos:
+
+Diseñar una interfaz de usuario intuitiva y atractiva para una experiencia de usuario agradable.
+Implementar recorridos virtuales 3D con interacciones en tiempo real.
+Gestionar y organizar una gran cantidad de datos relacionados con obras de arte y artistas.
+Calidad y Presentación:
+
+Asegúrate de que la plataforma sea visualmente impresionante y fácil de usar.
+Realiza pruebas de usabilidad para garantizar una experiencia de usuario fluida.
+Documenta de manera exhaustiva el diseño, la arquitectura y la implementación del proyecto.
+
+idea 2:
