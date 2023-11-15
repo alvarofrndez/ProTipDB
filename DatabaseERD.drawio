@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T19:32:16.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3fQV2y54mce0vjtGvC52" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T19:43:57.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oXf8kWMVBTFEfn07z42C" version="22.1.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="6586" dy="4452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3457" dy="2624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -536,6 +536,9 @@
         </mxCell>
         <mxCell id="ACqo0469GRyqDB0dCRIS-7" value="Triggers" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1220" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ACqo0469GRyqDB0dCRIS-10" value="Versiones" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="990" y="820" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
